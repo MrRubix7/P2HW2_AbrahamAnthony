@@ -1,7 +1,9 @@
  # Your Name: Antony Abraham
  # Date: 18 JUNE 2026
  # Assignment Name: P2HW2
- # A brief description of the project: 
+ # A brief description of the project: Calculates and displays the lowest grade, highest grade, sum of grades, and average grade for a list of grades entered by the user. 
+ # The program prompts the user to enter grades for six modules, stores them in a list, and then uses built-in functions to calculate and display the required information in a formatted manner.
+
 
 # Instructions:
 
